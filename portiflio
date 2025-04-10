@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html  lang="eu">
+</html>
+    <meta charset="UTF-"
+    <meta name="viewport" content="width=device-width,  initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portifólio</title>
+
+</head>
+</body>
+     <img src="img/avatar-perfil.png"  alt="avatar da luiza" srcset="">
+     <p>Eu sou Luiza</p>
+     <h1>segurança particular</h1>
+     <p>Sou segurança particular. Fazer com que a pessoa fique bem e segura</p>
+     <p>Minhas habilidades</p>
+     <div>
+         <p>HTML</p>
+         <p>CSS</p>
+         <p>JavaScript</p>
+         <p>JavaScript</p>
+         </div>
+</body>
+</html>
